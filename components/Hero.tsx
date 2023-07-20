@@ -1,6 +1,6 @@
-import Image from 'next/image'
+import Image from 'next/image';
 
-const Hero = () => {
+function Hero() {
   return (
     <div>Hero</div>
   )
